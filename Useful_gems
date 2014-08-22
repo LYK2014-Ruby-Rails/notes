@@ -1,16 +1,16 @@
-gem 'bootstrap-sass' :ruby:
-gem 'haml-rails' :ruby:
-gem 'will-paginate' :ruby:
-gem 'responder' :ruby:
-gem 'will_paginate-bootstrap' :ruby:
-gem 'devise' :ruby:
-gem 'simple_form' :ruby:
-gem 'compass-rails' :ruby:
-gem 'whenever' :ruby: 
-gem 'capistrano' :ruby:
-gem 'katip' :ruby:
-gem 'hierapolis-rails' :ruby:
-gem 'blankable' :ruby:
-gem 'kangal' :ruby:
-gem 'better_errors' :ruby:
-gem 'model_to_locale' :ruby
+gem 'bootstrap-sass' 
+gem 'haml-rails' 
+gem 'will-paginate' 
+gem 'responder' 
+gem 'will_paginate-bootstrap' 
+gem 'devise' 
+gem 'simple_form' 
+gem 'compass-rails' 
+gem 'whenever'  
+gem 'capistrano' 
+gem 'katip' 
+gem 'hierapolis-rails' 
+gem 'blankable' 
+gem 'kangal' 
+gem 'better_errors' 
+gem 'model_to_locale' 
